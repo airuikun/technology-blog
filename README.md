@@ -6,7 +6,7 @@
 
 ## 历史汇总
 
--   [前端面试题及答案汇总](https://juejin.im/post/5ca9de22e51d452b5372ed90)
+-   [前端面试题及答案汇总](https://github.com/airuikun/Weekly-FE-Interview/blob/master/summary/questions.md)
 
 <br/>
 
