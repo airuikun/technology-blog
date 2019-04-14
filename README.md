@@ -31,7 +31,7 @@
 
 希望在小伙伴前端进阶的路上有所帮助，助力大家进入自己理想的企业。
 
-欢迎关注我的微信公众号，讲述了一个前端屌丝逆袭的心路历程，共勉。
+欢迎关注我的微信公众号，微信扫下面二维码或搜索“前端屌丝”，讲述了一个前端屌丝逆袭的心路历程，共勉。
 
 ![image](https://github.com/airuikun/blog/raw/master/images/weekly/diaosierweima.jpg)
 
