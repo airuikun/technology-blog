@@ -27,3 +27,8 @@
 > blog项目地址是：https://github.com/airuikun/blog
 
 我是小蝌蚪，腾讯高级前端工程师，跟着我一起每周攻克几个前端技术难点。希望在小伙伴前端进阶的路上有所帮助，助力大家进入自己理想的企业。
+
+欢迎关注我的个人公众号，讲述了一个前端屌丝逆袭的心路历程，共勉。
+
+![image](https://github.com/airuikun/blog/raw/master/images/weekly/diaosierweima.jpg)
+
