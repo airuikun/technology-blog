@@ -7,6 +7,7 @@
 
 ## 技术blog
 
+- [小蝌蚪传记：前端实用技巧，通过babel精准操作AST——暗恋](https://github.com/airuikun/technology-blog/issues/53)
 - [小蝌蚪传记：js、css、html压缩与混淆汇总——变弯记](https://github.com/airuikun/technology-blog/issues/52)
 - [小蝌蚪传记：前端菜鸡让接口提速60%的实践与原理——云备胎](https://github.com/airuikun/technology-blog/issues/50)
 - [小蝌蚪传记：通过console.log高仿FBI Warning——想妳的夜](https://github.com/airuikun/technology-blog/issues/49)
